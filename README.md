@@ -2,7 +2,7 @@
 
 <div align='center'>
   
-![ReactBadge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic)
+<!-- ![ReactBadge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic) -->
 </div>
 
 [![kbyunghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbyunghoon&show_icons=true)](https://github.com/kbyunghoon/)
