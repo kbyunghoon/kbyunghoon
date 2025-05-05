@@ -4,7 +4,7 @@
 
 ---
 ### 팀 프로젝트
-[Monicar(차량 관제 서비스)](http://monicar.kr/)<br/>
+[Monicar(차량 관제 서비스)](https://monicar.kr/)<br/>
 [InvestMetic(투자 전략 공유 플랫폼)](https://www.investmetic.co.kr/)
 <br/><br/>
 ## 기술세미나<br/>
