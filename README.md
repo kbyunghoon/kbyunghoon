@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Frontend-Developer;Spring+Boot;React;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&weight=700&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Frontend-Developer;Spring+Boot;React;)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,17 +24,17 @@
 ### 🤖 [목터뷰 (AI 모의 면접)](https://mockterview.site/)
 > AI 기술을 활용한 스마트 모의 면접 플랫폼
 > 
-> `Spring Boot` `ChatGPT API` `React` `AI/ML`
+> `Spring Boot` `JPA` `ChatGPT API` `Next.js` `MySQL` `AI/ML` `GCP` `Github Actions`
 
 ### 🚗 [Monicar (차량 관제 서비스)](https://monicar.kr/)
 > 실시간 차량 모니터링 및 관제 시스템
 > 
-> `Spring Boot` `WebSocket` `MySQL` `React`
+> `Spring Boot` `RabbitMQ` `WebSocket` `Elasticsearch` `MySQL` `GCP` `Github Actions`
 
 ### 📈 [InvestMetic (투자 전략 공유 플랫폼)](https://www.investmetic.co.kr/)
 > 투자자들의 전략 공유 및 분석 플랫폼
 > 
-> `Next.js` `TypeScript` `Spring Boot` `Redis`
+> `Spring Boot` `Redis` `JPA` `MySQL` `AWS` `Jenkins`
 
 </div>
 
