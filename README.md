@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- Backend : `Java` `Spring Boot` `JPA` `MyBatis` `Redis` `MySQL` `Elasticsearch` `GraphQL` `Node.js`<br/>
+- Backend : `Java` `Kotlin` `Spring Boot` `JPA` `MyBatis` `Redis` `MySQL` `Elasticsearch` `GraphQL`<br/>
 - Frontend : `React` `Next.js` `TypeScript` `Redux` `React Query` `Styled-components` `TailwindCSS`<br/>
 - Infra/Test : `RabbitMQ` `WebSocket` `JUnit4/5` `Cypress` `GitHub Actions` `Jenkins`
 
