@@ -6,10 +6,6 @@
 
 </div>
 
----
-- 🔭 현재 **Spring Boot**와 **Kotlin**을 공부하고 있습니다
----
-
 ## 🛠️ Tech Stack
 - Backend : `Java` `Kotlin` `Spring Boot` `JPA` `MyBatis` `Redis` `MySQL` `Elasticsearch` `GraphQL`<br/>
 - Frontend : `React` `Next.js` `TypeScript` `Redux` `React Query` `Styled-components` `TailwindCSS`<br/>
@@ -21,17 +17,17 @@
 
 <div align="center">
 
-### 🤖 [목터뷰 (AI 모의 면접)](https://mockterview.site/)
+### 🤖 목터뷰 (AI 모의 면접)
 > AI 기술을 활용한 스마트 모의 면접 플랫폼
 > 
 > `Spring Boot` `JPA` `ChatGPT API` `Next.js` `MySQL` `AI/ML` `GCP` `Github Actions`
 
-### 🚗 [Monicar (차량 관제 서비스)](https://monicar.kr/)
+### 🚗 [Monicar (차량 관제 서비스)](https://github.com/kbyunghoon/monicar_BE)
 > 실시간 차량 모니터링 및 관제 시스템
 > 
 > `Spring Boot` `RabbitMQ` `WebSocket` `Elasticsearch` `MySQL` `GCP` `Github Actions`
 
-### 📈 [InvestMetic (투자 전략 공유 플랫폼)](https://www.investmetic.co.kr/)
+### 📈 [InvestMetic (투자 전략 공유 플랫폼)](https://github.com/kbyunghoon/InvestMetic_BE)
 > 투자자들의 전략 공유 및 분석 플랫폼
 > 
 > `Spring Boot` `Redis` `JPA` `MySQL` `AWS` `Jenkins`
