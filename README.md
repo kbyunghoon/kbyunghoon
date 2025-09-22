@@ -27,7 +27,7 @@
 > 
 > `Spring Boot` `RabbitMQ` `WebSocket` `Elasticsearch` `MySQL` `GCP` `Github Actions`
 
-### 📈 [InvestMetic (투자 전략 공유 플랫폼)](https://github.com/kbyunghoon/InvestMetic_BE)
+### 📈 [InvestMetic (투자 전략 공유 플랫폼)](https://www.investmetic.co.kr/)
 > 투자자들의 전략 공유 및 분석 플랫폼
 > 
 > `Spring Boot` `Redis` `JPA` `MySQL` `AWS` `Jenkins`
