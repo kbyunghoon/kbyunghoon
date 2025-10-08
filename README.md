@@ -13,7 +13,7 @@
 
 ---
 
-## 🎯 Featured Projects
+<!-- ## 🎯 Featured Projects
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 </div>
 
----
+--- -->
 
 ## 📚 Knowledge Sharing
 
